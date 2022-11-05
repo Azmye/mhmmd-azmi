@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/Azmye/mhmmd-azmi/static/css/main.b4d83179.css",
-    "main.js": "/Azmye/mhmmd-azmi/static/js/main.1d755cc8.js",
-    "static/js/787.071eb048.chunk.js": "/Azmye/mhmmd-azmi/static/js/787.071eb048.chunk.js",
-    "index.html": "/Azmye/mhmmd-azmi/index.html",
-    "main.b4d83179.css.map": "/Azmye/mhmmd-azmi/static/css/main.b4d83179.css.map",
-    "main.1d755cc8.js.map": "/Azmye/mhmmd-azmi/static/js/main.1d755cc8.js.map",
-    "787.071eb048.chunk.js.map": "/Azmye/mhmmd-azmi/static/js/787.071eb048.chunk.js.map"
+    "main.css": "/mhmmd-azmi/static/css/main.cd47be22.css",
+    "main.js": "/mhmmd-azmi/static/js/main.c989641d.js",
+    "static/js/787.071eb048.chunk.js": "/mhmmd-azmi/static/js/787.071eb048.chunk.js",
+    "static/media/gamepaused.png": "/mhmmd-azmi/static/media/gamepaused.465269df8a74e09e6358.png",
+    "static/media/profile.png": "/mhmmd-azmi/static/media/profile.9591a31a0d035126a6fc.png",
+    "static/media/1.webp": "/mhmmd-azmi/static/media/1.391f3bcfc1996c7e99a3.webp",
+    "static/media/3.webp": "/mhmmd-azmi/static/media/3.3c53e7e45163c4cab1f6.webp",
+    "static/media/2.webp": "/mhmmd-azmi/static/media/2.2a2715fbd6b514355d2b.webp",
+    "index.html": "/mhmmd-azmi/index.html",
+    "main.cd47be22.css.map": "/mhmmd-azmi/static/css/main.cd47be22.css.map",
+    "main.c989641d.js.map": "/mhmmd-azmi/static/js/main.c989641d.js.map",
+    "787.071eb048.chunk.js.map": "/mhmmd-azmi/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4d83179.css",
-    "static/js/main.1d755cc8.js"
+    "static/css/main.cd47be22.css",
+    "static/js/main.c989641d.js"
   ]
 }
