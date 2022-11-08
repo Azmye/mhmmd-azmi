@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mhmmd-azmi/static/css/main.a83bfa4d.css",
-    "main.js": "/mhmmd-azmi/static/js/main.319889a2.js",
+    "main.js": "/mhmmd-azmi/static/js/main.3028045d.js",
     "static/js/787.071eb048.chunk.js": "/mhmmd-azmi/static/js/787.071eb048.chunk.js",
     "static/media/gamepaused.png": "/mhmmd-azmi/static/media/gamepaused.465269df8a74e09e6358.png",
     "static/media/profile.png": "/mhmmd-azmi/static/media/profile.9591a31a0d035126a6fc.png",
@@ -10,11 +10,11 @@
     "static/media/2.webp": "/mhmmd-azmi/static/media/2.2a2715fbd6b514355d2b.webp",
     "index.html": "/mhmmd-azmi/index.html",
     "main.a83bfa4d.css.map": "/mhmmd-azmi/static/css/main.a83bfa4d.css.map",
-    "main.319889a2.js.map": "/mhmmd-azmi/static/js/main.319889a2.js.map",
+    "main.3028045d.js.map": "/mhmmd-azmi/static/js/main.3028045d.js.map",
     "787.071eb048.chunk.js.map": "/mhmmd-azmi/static/js/787.071eb048.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a83bfa4d.css",
-    "static/js/main.319889a2.js"
+    "static/js/main.3028045d.js"
   ]
 }
